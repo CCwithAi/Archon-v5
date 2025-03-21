@@ -6,6 +6,8 @@ Archon created By Cole Medin.
 
 In this version I just added couple extra crawls. I will update this with the refinements from Cole as they come out.
 
+Added crawl filter for crawl4AI langchain
+
 https://www.youtube.com/watch?v=GjR5UsVGE60&t=710s
 
 Main repo here https://github.com/coleam00/Archon/tree/main
