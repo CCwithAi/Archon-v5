@@ -1,7 +1,7 @@
 # Archon - AI Agent Builder
 
 
-Archon created By Cole Medlin.
+Archon created By Cole Medin.
 
 
 In this version I just added couple extra crawls. I will update this with the refinements from Cole as they come out.
