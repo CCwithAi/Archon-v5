@@ -1,8 +1,7 @@
 # Archon - AI Agent Builder
 
-<img src="public/Archon.jpeg" alt="Archon Logo" />
 
-<div align="center" style="margin-top: 20px;margin-bottom: 30px">
+By Cole Medlin - I just added couple extra crawls.
 
 <h3>🚀 **CURRENT VERSION** 🚀</h3>
 
