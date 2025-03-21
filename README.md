@@ -6,6 +6,10 @@ Archon created By Cole Medin.
 
 In this version I just added couple extra crawls. I will update this with the refinements from Cole as they come out.
 
+https://www.youtube.com/watch?v=GjR5UsVGE60&t=710s
+
+
+
 <h3>🚀 **CURRENT VERSION** 🚀</h3>
 
 **[ V5 - Multi-Agent Coding Workflow ]**
