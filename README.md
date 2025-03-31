@@ -4,7 +4,7 @@
 Archon created By Cole Medin.
 
 
-In this version I just added couple extra crawls. I will update this with the refinements from Cole as they come out.
+In this version I just added crawl4ai docs, crawls. I will update this with the refinements from Cole as they come out.
 
 Added crawl filter for crawl4AI 
 
